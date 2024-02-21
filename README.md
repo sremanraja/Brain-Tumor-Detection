@@ -1,1 +1,1 @@
-# Brain-Tumor-Detection
+# Download the model file from [https://drive.google.com/file/d/1LJG_ITCWWtriLC5NPrWxIDwekWbhU_Rj/view?usp=sharing](https://drive.google.com/file/d/1LJG_ITCWWtriLC5NPrWxIDwekWbhU_Rj/view?usp=sharing) and add to this directory in order to run the project.
